@@ -40,6 +40,7 @@ To create a Batch script, simply create a new text file with a `.bat` extension 
 @echo off
 echo Hello, World!
 pause
+```
 
 # Basic Commands to Know
 
